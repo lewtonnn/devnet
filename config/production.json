@@ -1,0 +1,6 @@
+{
+  "MONGO_URI": "xxx",
+  "JWT_SECRET": "xxx",
+  "GITHUB_CLIENT_ID": "xxx",
+  "GITHUB_SECRET": "xxx"
+}
